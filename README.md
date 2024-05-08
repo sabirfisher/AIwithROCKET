@@ -5,8 +5,11 @@ Welcome to the simulation repository for the 2023-2025 Brazoswood Transonic to G
 Project Details
 
 Developer: Sabir Fisher
+
 Objective: To simulate and understand the behavior of a transonic rocket, including aspects such as drag, thrust, and aerodynamic changes.
+
 Target: Brazoswood High School Rocketry Program
+
 Features
 Air Density Calculation: Estimates the density of air at different altitudes using temperature and pressure adjustments.
 Drag Coefficient Modeling: Provides a dynamic calculation of the drag coefficient based on the Mach number, covering subsonic to hypersonic speeds.
